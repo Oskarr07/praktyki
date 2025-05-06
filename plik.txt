@@ -1,1 +1,2 @@
 "To jest m¢j pierwszy commit" 
+"Zmieniono zawarto˜† na branchu" 
